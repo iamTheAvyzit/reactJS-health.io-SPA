@@ -1,3 +1,9 @@
+#Desktop View: Check the live version up now: 🔥🔥✨💥🔥🔥
+![DesktopView](https://user-images.githubusercontent.com/94052679/148742316-135f108a-41b2-4055-8a1a-ff0213552a96.png)
+
+# Fully Responsive Design
+![MobileView](https://user-images.githubusercontent.com/94052679/148742322-c7d7bcc2-adb7-4c4c-baf0-84434c5f99f3.png)
+
 # reactJS-health.io-SPA
 Trying out newer claymorphism designs from Figma. A simple and cool looking website for a health insurance provider. This is a clean looking website designed from scratch and it is also fully responsive.
 
