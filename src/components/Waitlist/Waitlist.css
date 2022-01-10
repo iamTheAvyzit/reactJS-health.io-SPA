@@ -1,0 +1,92 @@
+.waitlist {
+    display: flex;
+    background: linear-gradient(131deg, #1d288b 0%, #6d70ad 100%);
+    color:  #FFFFFF;
+}
+
+.waitlist-group {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin-top: 10%;
+}
+
+.waitlist-group .head {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    letter-spacing: -1px;
+}
+
+.waitlist-group .desc {
+    font-size: 18px;
+    line-height: 27px;
+    margin: 2% 0% 5% 0%;
+}
+
+.caps {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    margin-top: 5%;
+}
+
+.waitlist-group input {
+    padding: 15px 30px;
+    width: 80%;
+    background: transparent;
+    color: white;
+    border: 1.5px solid #EBEAED;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+.waitlist-group button {
+    background: #FFFFFF;
+    border-radius: 100px;
+    border: none;
+    padding: 10px 35px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    color: #363C90;
+}
+
+.waitlist-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: flex-start;
+    margin: 10% 0% 10% 0%;
+}
+
+.waitlist-icons p,
+.waitlist-icons img {
+    margin-left: 20px;
+}
+
+
+.waitlist-icons p {
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+}
+
+.referral-text {
+    font-size: 12px;
+    line-height: 24px;
+    width: 80%;
+    margin-bottom: 20%;
+}
+
+@media screen and (max-width: 1080px) {
+    .waitlist {
+        flex-direction: column;
+    }
+
+    .waitlist-group {
+        width: 90%;
+        margin-left: 10%;
+    }
+}
