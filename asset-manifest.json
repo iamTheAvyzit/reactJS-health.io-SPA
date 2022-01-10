@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactJS-health.io-SPA/static/css/main.0c576c60.chunk.css",
+    "main.js": "/reactJS-health.io-SPA/static/js/main.d983a753.chunk.js",
+    "main.js.map": "/reactJS-health.io-SPA/static/js/main.d983a753.chunk.js.map",
+    "runtime-main.js": "/reactJS-health.io-SPA/static/js/runtime-main.8ac47aad.js",
+    "runtime-main.js.map": "/reactJS-health.io-SPA/static/js/runtime-main.8ac47aad.js.map",
+    "static/js/2.930a66be.chunk.js": "/reactJS-health.io-SPA/static/js/2.930a66be.chunk.js",
+    "static/js/2.930a66be.chunk.js.map": "/reactJS-health.io-SPA/static/js/2.930a66be.chunk.js.map",
+    "index.html": "/reactJS-health.io-SPA/index.html",
+    "static/css/main.0c576c60.chunk.css.map": "/reactJS-health.io-SPA/static/css/main.0c576c60.chunk.css.map",
+    "static/js/2.930a66be.chunk.js.LICENSE.txt": "/reactJS-health.io-SPA/static/js/2.930a66be.chunk.js.LICENSE.txt",
+    "static/media/BenImg.545a570d.png": "/reactJS-health.io-SPA/static/media/BenImg.545a570d.png",
+    "static/media/FAQ.dcf3d62b.png": "/reactJS-health.io-SPA/static/media/FAQ.dcf3d62b.png",
+    "static/media/HeroImg.3a71a5cb.png": "/reactJS-health.io-SPA/static/media/HeroImg.3a71a5cb.png",
+    "static/media/JoinImg.6e1307b7.png": "/reactJS-health.io-SPA/static/media/JoinImg.6e1307b7.png",
+    "static/media/Hero.css": "/reactJS-health.io-SPA/static/media/bg.7917462b.svg",
+    "static/media/lastHand.0f4d0238.png": "/reactJS-health.io-SPA/static/media/lastHand.0f4d0238.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac47aad.js",
+    "static/js/2.930a66be.chunk.js",
+    "static/css/main.0c576c60.chunk.css",
+    "static/js/main.d983a753.chunk.js"
+  ]
+}
